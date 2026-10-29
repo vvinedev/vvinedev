@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Firmino Souto</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [APTO_MAKER](https://github.com/vvinedev/APTO_MAKER)
 
